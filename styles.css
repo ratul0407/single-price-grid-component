@@ -120,7 +120,7 @@ button {
   padding: 3rem;
 }
 /* Mobile layout */
-@media (max-width: 1440px) {
+@media (max-width:64rem) {
   .container {
     display: grid;
     grid-template-columns: 1fr;
